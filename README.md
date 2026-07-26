@@ -1,10 +1,10 @@
 [![](https://jitpack.io/v/quiqueck/BetterEnd.svg)](https://jitpack.io/#quiqueck/BetterEnd)
 
-An unofficial branch of BetterEnd, aimed at fixing some issues.
-
 # Better End
 
-Better End Mod for Fabric, MC 1.19
+An unofficial branch of BetterEnd, aimed at fixing some issues.
+
+Better End Mod for Fabric, MC 1.21
 
 Importing:
 
